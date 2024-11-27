@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kundan Pandey
 - 👀 I’m interested in App development.(flutter development)
 - 🌱 I’m currently learning Bachelor in information technology
-- 📫 you can contact me vihaanpandey@gmail.com
+- 📫 you can contact me pandekundan101@gmail.com
 
 <!---
 kundan8545/kundan8545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
